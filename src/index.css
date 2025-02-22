@@ -13,9 +13,3 @@ body {
   width: 100%;
   overflow: fixed;
 }
-
-@media screen and (min-width: 768px) {
-  body {
-    overflow: ;
-  }
-}
