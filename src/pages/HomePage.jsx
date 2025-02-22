@@ -13,7 +13,7 @@ const HomePage = () => {
       <div className="navbar w-[20%]">
         <Navbar />
       </div>
-      <div className="main   lg:w-[80%] md:w-full">
+      <div className="main px-10  lg:w-[80%] md:w-full">
         <Home />
         <About />
         <Skills />
